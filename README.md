@@ -10,4 +10,4 @@ Neurosynth takes thousands of published articles reporting the results of fMRI s
 In this Cognitive and Computational Neuroscience research project, I utilized neurosynth to further study the connection between multiple cognitive / behavioral  patterns (Addiction, Anxiety), 
 and then utilizing neurosynth was able to write up the fMRI neueroanotmoical connection to such cogntive processes.
 
-###
+### Res
