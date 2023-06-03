@@ -1,4 +1,4 @@
-# NeuroSynth Behavioral fMRI Analysis
+# NeuroSynth Cognitive fMRI Analysis
 # Research Results
 
 ## Research Analysis Introduction
